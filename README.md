@@ -8,4 +8,4 @@ Houses the guided project written in Jupyter Notebooks along with course-provide
 - Combining Tables in SQL
 - SQL Subqueries
 - Guided Project:
-  - [Customers and Products Analysis using SQL](https://github.com/marilynyi/dataquest-sql-fundamentals) 
+  - [Customers and Products Analysis using SQL](https://github.com/marilynyi/dataquest-sql-fundamentals/blob/main/customers_and_products_analysis_using_sql.ipynb) 
